@@ -9,5 +9,6 @@
  * @author Diurno
  */
 public class clase1 {
+    private String nombre;
     private int num;
 }
