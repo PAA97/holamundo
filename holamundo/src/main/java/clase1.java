@@ -10,6 +10,7 @@
  */
 public class clase1 {
     private String nombre;
+    private int edad;
     private int num;
     private String color;
 }
